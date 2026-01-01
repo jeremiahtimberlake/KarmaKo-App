@@ -21,5 +21,5 @@ Try the app here:
 - https://editor.p5js.org/jtimberlake8/full/Uh7dyMl3u
 
 ## Team Members
-- https://www.cwenfreeman.com/
-- https://www.linkedin.com/in/adeline-diem-119062215/
+- [Adeline Diem](https://www.linkedin.com/in/adeline-diem-119062215/)
+- [Cwen Freeman](https://www.cwenfreeman.com/)
