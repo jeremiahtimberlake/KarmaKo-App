@@ -17,8 +17,7 @@ This project was completed as the final for the course LMC 6310: The Computer as
 - Figma
 
 ## Usage  
-Try the app here:  
-- https://editor.p5js.org/jtimberlake8/full/Uh7dyMl3u
+Try the app [here](https://editor.p5js.org/jtimberlake8/full/Uh7dyMl3u).
 
 ## Team Members
 - [Adeline Diem](https://www.linkedin.com/in/adeline-diem-119062215/)
