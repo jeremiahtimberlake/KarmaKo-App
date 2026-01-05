@@ -20,5 +20,6 @@ This project was completed as the final for the course LMC 6310: The Computer as
 Try the app [here](https://editor.p5js.org/jtimberlake8/full/Uh7dyMl3u).
 
 ## Team Members
-- [Adeline Diem](https://www.linkedin.com/in/adeline-diem-119062215/)
-- [Cwen Freeman](https://www.cwenfreeman.com/)
+- [Jeremiah Timberlake](https://www.linkedin.com/in/jeremiahtimberlake/) - Programming
+- [Adeline Diem](https://www.linkedin.com/in/adeline-diem-119062215/) - UI/UX Design
+- [Cwen Freeman](https://www.cwenfreeman.com/) - Graphic Design 
