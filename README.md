@@ -14,6 +14,8 @@ This project was completed as the final for the course LMC 6310: The Computer as
 
 ## Tech Stack  
 - JavaScript (p5.js)
+- HTML
+- CSS
 - Figma
 
 ## Usage  
